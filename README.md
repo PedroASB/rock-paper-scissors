@@ -15,9 +15,15 @@ This was my first practical project using JavaScript. This time, the focus was n
 
 ## Live Demo
 
-**[Click here](https://pedroasb.github.io/odin-foundations/rock-paper-scissors/)** to try out this project on browser.
+**[Click here](https://pedroasb.github.io/rock-paper-scissors/)** to try out this project on browser.
 
 ## Screenshots
 
 ![Screenshot](./screenshots/screenshot-1.png)
 ![Screenshot](./screenshots/screenshot-2.png)
+
+## About the Project
+
+This project is part of the curriculum of [The Odin Project](https://www.theodinproject.com/). You can check out other projects that I've built in my [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
+
+**Note:** this project was originally part of a multi-project repository and was later split into its own repository. A git history filtering tool was used to preserve the original commit history.
